@@ -3,7 +3,7 @@
 This is my professional portfolio showcasing my work as a **Computer Science Student** at Kirinyaga University and an **Award-Winning Author**.
 
 ## 🚀 Live Demo
-[PASTE YOUR VERCEL LINK HERE]
+[https://my-portfolio-nu-eight-30.vercel.app/]
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML5, CSS3 (Tailwind), JavaScript
@@ -16,3 +16,4 @@ This is my professional portfolio showcasing my work as a **Computer Science Stu
 
 ## ✍️ About Me
 I specialize in creative problem solving, combining technical logic with narrative excellence. I follow a strict professional routine to ensure high-quality delivery.
+
