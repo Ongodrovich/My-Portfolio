@@ -184,7 +184,7 @@ async function handleContactForm(event) {
 // Download CV function
 function downloadCV() {
   // Update this with your actual CV file path
-  const cvPath = 'assets/Cosmas-Ongode-CV.pdf'; // Or wherever your CV is stored
+  const cvPath = 'assets/Cosmas_Ongode_CV (1).pdf'; // Matches the file in the assets folder
   const link = document.createElement('a');
   link.href = cvPath;
   link.download = 'Cosmas-Ongode-CV.pdf';
